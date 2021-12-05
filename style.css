@@ -1,1 +1,62 @@
+body {
+    font-family: sans-serif;
+    background-color:#FFDEAD;
+    padding:4px;
+    border-radius:5px;
 
+}
+
+nav {
+    background-color:#FFF8DC;
+    text-align:center;
+    border-radius:4px;
+}
+
+nav a{
+    text-decoration:none;
+    padding:3px;
+
+    color:#00BFFF;
+}
+
+.aboba{
+    background-color:#FFF8DC;
+    margin:5px;
+    border-radius:5px;
+    text-align:center;
+    
+
+}
+
+
+h1{
+    color:#191970;
+    text-align:center;
+    
+}
+
+h2{
+    color:#191970;
+}
+
+header a{
+    text-decoration:none;
+    color:#00BFFF;
+    margin:5px;
+    border-radius:4px;
+    background-color:#FFF8DC;
+
+}
+
+main a{
+    color:#00BFFF;
+    text-decoration:none;
+}
+
+
+footer p{
+    margin:0px;
+    background-color:#FFF8DC;
+    text-align:center;
+    border-radius:0px;
+}
