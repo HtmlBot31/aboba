@@ -16,7 +16,7 @@ nav a{
     text-decoration:none;
     padding:3px;
 
-    color:#FF4500;
+    color:white;
 }
 
 .aboba{
@@ -30,18 +30,18 @@ nav a{
 
 
 h1{
-    color:#191970;
+    color:white;
     text-align:center;
     
 }
 
 h2{
-    color:#FF4500;
+    color:white;
 }
 
 header a{
     text-decoration:none;
-    color:#FF4500;
+    color:white;
     margin:5px;
     border-radius:4px;
     background-color:#6B8E23;
@@ -49,7 +49,7 @@ header a{
 }
 
 main a{
-    color:#FF4500;
+    color:white;
     text-decoration:none;
 }
 
