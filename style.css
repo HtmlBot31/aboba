@@ -1,13 +1,13 @@
 body {
     font-family: sans-serif;
-    background-color:#FFDEAD;
+    background-color:#FFC0CB;
     padding:4px;
     border-radius:5px;
 
 }
 
 nav {
-    background-color:#FFF8DC;
+    background-color:#6B8E23;
     text-align:center;
     border-radius:4px;
 }
@@ -20,7 +20,7 @@ nav a{
 }
 
 .aboba{
-    background-color:#FFF8DC;
+    background-color:#6B8E23;
     margin:5px;
     border-radius:5px;
     text-align:center;
@@ -44,7 +44,7 @@ header a{
     color:#00BFFF;
     margin:5px;
     border-radius:4px;
-    background-color:#FFF8DC;
+    background-color:#6B8E23;
 
 }
 
@@ -56,7 +56,7 @@ main a{
 
 footer p{
     margin:0px;
-    background-color:#FFF8DC;
+    background-color:#6B8E23;
     text-align:center;
     border-radius:0px;
 }
