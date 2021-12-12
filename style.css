@@ -9,12 +9,12 @@ body {
 nav {
     background-color:#6B8E23;
     text-align:center;
-    border-radius:10px;
+    border-radius:2px;
 }
 
 nav a{
     text-decoration:none;
-    padding:4px;
+    padding:10px;
 
     color:white;
 }
